@@ -15,7 +15,7 @@ The image below shows the summary statistics for the months of June and December
 2. The minimum recorded temperature was *56°F* (during December).
 3. The maximum recorded temperature was *85°F* (during June). 
 
-These temperatures could easily be seen as mild, and favorable for a business focused on its patrons enjoying outside activity in ideal weather conditions.  
+These mild temperatures can easily be seen as favorable for a business focused on its patrons enjoying outside activity in ideal weather conditions.  
 
 ![Temperature_chart.png](https://github.com/frostbrosracing/surfs_up/blob/main/Temperature_chart.png)
 
